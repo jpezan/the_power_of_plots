@@ -1,5 +1,5 @@
 # the_power_of_plots
-##Instructions
+Instructions
 Your tasks are to do the following:
 
 
